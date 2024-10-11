@@ -25,10 +25,10 @@ Our pipeline consists of three steps:
   - **Faster RCNN** give unrealistic **MAP** value of 85 so I choose to finalized my model by training it on **SSD MobileNetV2 which give me a MAP in between 70.**
   - First training with **3500** images gives the **MAP** of **60** so I increased the data to **7500. and it gives MAP of 85 in Faster RCNN and 70 on SSD MobileNetV2.**
 
-### **Demo**
+<!-- ### **Demo**
 
 
-https://user-images.githubusercontent.com/75604769/177893181-49c3717e-4f4c-4188-95ef-3e9edd3868c0.mp4
+https://user-images.githubusercontent.com/75604769/177893181-49c3717e-4f4c-4188-95ef-3e9edd3868c0.mp4 -->
 
 ### **Installation**
 - **Clone the repository:**
